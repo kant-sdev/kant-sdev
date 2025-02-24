@@ -26,10 +26,6 @@ Aprimorando: Estudando e aplicando em projetos simples
 ## 💼 Contribuições em Projetos Open Source
 - [SCS - Smart Creative Solutions](link_para_contribuição): Por ser uma empresa junior ligada diretamente a faculdade, atuo como desenvolvedor front-end, sempre em horario não comercial.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kant-sdev&count_private=true&theme=radical" alt="Kauã" height="155"/>
-
-
-
 ## 🤝 Contato
 - 🌐 LinkedIn: [Kauã Cantanhede dos Santos]([www.linkedin.com/in/kauã-cantanhêde-dos-santos-2b9b43259](https://www.linkedin.com/in/kau%C3%A3-cantanh%C3%AAde-dos-santos-2b9b43259/))
 - ✉️ Email: kaua.cantanhede.santos@gmail.com
