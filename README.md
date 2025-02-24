@@ -18,7 +18,7 @@ Aprimorando: Estudando e aplicando em projetos simples
 - 🚀 - Outras linguagens: PHP, Python.
 
 ## 🔤 Linguagens Mais Utilizadas
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-dev&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-sdev&layout=compact&theme=dark)
 
 ## 🚀 Projetos Destacados
 - em desenvolvimento...
@@ -36,7 +36,7 @@ Aprimorando: Estudando e aplicando em projetos simples
 - 📱 Whatsapp: [Kauã Santos](http://Wa.me//+5563999466193)
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kant-dev&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kant-sdev&show_icons=true&theme=dark)
 
 
 
