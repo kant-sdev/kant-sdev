@@ -10,12 +10,11 @@
 Expreriência: Já estudei sobre e tenho uma base sobre, revisando sempre que possivel.
 - 💻 - Desenvolvimento Web: HTML, CSS, JavaScript.
 - 💾 - Banco de dados: Conhecimentos gerais, SQL.
-- 🔌 - Redes de Computadores: Conceitos básicos, TCP/IP, Configuração de redes locais.
 
 Aprimorando: Estudando e aplicando em projetos simples
-- ⚛️ - Frameworks: TypeScript, React, React Native
+- ⚛️ - Frameworks: TypeScript, React, React Native, NextJS
 - 📦 - Versionamento: Git, GitHub
-- 🚀 - Outras linguagens: PHP, Python.
+- 🚀 - Outras linguagens: PHP.
 
 ## 🔤 Linguagens Mais Utilizadas
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-sdev&layout=compact&theme=dark)
