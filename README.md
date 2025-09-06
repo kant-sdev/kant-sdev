@@ -23,6 +23,8 @@
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kant-sdev&show_icons=true&theme=dark)  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-sdev&layout=compact&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kant-sdev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 📬 Contato
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-cantanh%C3%AAde-dos-santos-2b9b43259/)  
