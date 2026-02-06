@@ -91,14 +91,8 @@ Atuação no backend:
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kant-sdev&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kant-sdev&layout=compact&theme=dark)
-
----
-
 ## 📬 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-cantanh%C3%AAde-2b9b43259/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaua-cantanhade/)
 - ✉️ Email: **kaua.cantanhede.santos@gmail.com**
 - 📱 WhatsApp: [Clique para conversar](http://wa.me/+5563999466193)
 
