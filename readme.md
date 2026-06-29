@@ -1,118 +1,88 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff0000"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:1a1f2e,100:0d1117&text=Kauã%20Cantanhede&fontColor=e2e8f0&fontSize=34&fontAlignY=62&desc=Backend%20Java%20Developer%20·%20Software%20Architecture&descSize=14&descAlignY=80&descColor=64748b"/>
+</div>
 
-# 👋 Olá, eu sou Kauã Cantanhede (kant-sdev)
+<div align="center">
 
-Sou **Desenvolvedor Backend Java**, com foco em **Spring Boot e APIs REST**, sempre buscando entender como funciona o processo de arquitetura de software, boas práticas e evolução técnica contínua. Tenho experiência prática em projetos acadêmicos e extensionistas,  buscando **código limpo, organizado e sustentável**. Evoluo continuamente em direção a uma **liderança técnica**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/kaua-cantanhade/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kaua.cantanhede.santos@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](http://wa.me/+5563999466193)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kant-sdev)
+![Visitors](https://komarev.com/ghpvc/?username=kant-sdev&style=flat-square&color=64748b&label=visitors)
 
----
+</div>
 
-## 🎯 Atuação e Objetivo
+<br/>
 
-- Desenvolvimento **Backend com Java**
-- Criação de **APIs RESTful**
-- Arquitetura em camadas (MVC, SoC)
-- Aplicação de **POO, Clean Code e boas práticas de engenharia de software**
-- Evolução contínua para **Backend Developer / Java Developer Júnior**
+Desenvolvedor Backend com foco em **Java, Spring Boot e Arquitetura de Software**. Me importo com APIs bem estruturadas, código limpo e com entender *por que* as decisões de design importam não apenas como implementá-las.
 
----
+Aprofundando conhecimentos em **engenharia e design de sistemas**, com interesse crescente em segurança de aplicações, DevOps e padrões de arquitetura escalável.
 
-## ☕ Backend & Arquitetura
-
-- **Java**
-  - Orientação a Objetos
-  - Collections, Exceptions, Streams, Lambdas
-- **Spring Boot**
-  - Spring Data JPA
-  - Estruturação de camadas (Controller, Service, Repository)
-- **APIs REST**
-- Princípios de arquitetura de software
-- Design patterns: MVC, Arquitetura em Camadas, SoC
-- Boas práticas de engenharia de software
+<br/>
 
 ---
 
-## 🗄️ Banco de Dados
+## Stack
 
-- Modelagem relacional e definição de schemas
-- Consultas SQL
-- **PostgreSQL** e **MySQL** (experiência prática)
-- **Oracle Database** (conhecimento acadêmico)
-- **JPA / Hibernate**
+**Backend**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## ⚙️ Versionamento, Qualidade & Metodologias
+**Banco de Dados**
 
-- Git & GitHub (GitFlow)
-- Testes de fluxos e validações em aplicações Spring Boot
-- Metodologias ágeis: **Scrum** e **Kanban**
-- Organização e documentação de código
-- Boas práticas de engenharia de software
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
----
+**DevOps & Cloud**
 
-## 💼 Experiência Profissional
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 💻 Smart Creative Solutions (SCS)
-**Desenvolvedor Software - Frontend / Integração com Backend**
-Nov/2023 – Jun/2025
+**Frontend (secundário)**
 
-Projeto extensionista vinculado à Facimp Wyden, com foco em soluções tecnológicas inovadoras que conectam teoria e prática no mundo real.
-
-Atividades:
-- Integração de aplicações frontend com **APIs REST**
-- Consumo e validação de dados provenientes do backend
-- Versionamento organizado com Git/GitHub (GitFlow)
-- Aplicação de boas práticas de código e organização
-- Revisão contínua do próprio código visando evolução técnica
-- Participação em entregas iterativas e cumprimento de prazos
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
-## 🚜 Farmanage — Projeto Autoral (Full Stack)
-**Backend: Java + Spring Boot | Banco: PostgreSQL**
-**Arquitetura: APIs REST · MVC · SoC**
+## GitHub
 
-Projeto autoral com escopo funcional e regras de negócio completamente definidos, atualmente em **fase de replanejamento técnico** para reimplementação completa após conclusão do programa ONE.
-
-Atuação no backend:
-- Definição de regras de negócio, fluxos e requisitos funcionais
-- Modelagem conceitual da aplicação e estruturação da arquitetura backend
-- Planejamento de APIs REST e camadas do sistema (controllers, services, repositories)
-- Decisões tecnológicas guiadas por Java/Spring Boot e melhores práticas corporativas
-- Organização de documentação técnica para manutenção e evolução futura
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kant-sdev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
+</div>
 
 ---
 
-## 🎓 Formação Acadêmica
+## Experiência
 
-- **Oracle Next Education (ONE) — Backend Java**
-  Oracle + Alura · Jun/2025 – Mar/2026
-  - Desenvolvimento de aplicações backend com Java e Spring Boot
-  - Implementação de APIs REST, validação de regras de negócio e persistência com JPA/Hibernate
-  - Aplicação de conceitos de POO, Clean Code e arquitetura em camadas
-  - Modelagem de dados e escrita de consultas SQL
-  - Versionamento com Git e GitHub
-  - Experiência com metodologias ágeis e entregas incrementais
+**Desenvolvedor Frontend · Smart Creative Solutions (SCS)**
+`Nov 2023 - Jun 2025` · Projeto extensionista, Facimp Wyden
 
-- **Análise e Desenvolvimento de Sistemas**
-  Unifacimp Wyden, Imperatriz – MA · Mar/2023 – Dez/2026
-
-- **Técnico em Redes de Computadores**
-  Instituto Federal do Tocantins, Campus Araguatins – TO · 2019 – 2022
+Desenvolvimento mobile com React Native + Expo e integração com APIs REST. Atuei com TypeScript, componentização avançada, GitFlow e entregas iterativas em um ambiente próximo à realidade corporativa.
 
 ---
 
-## 📬 Contato
+## Formação
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaua-cantanhade/)
-- ✉️ Email: **kaua.cantanhede.santos@gmail.com**
-- 📱 WhatsApp: [Clique para conversar](http://wa.me/+5563999466193)
-- 🐙 GitHub: [github.com/kant-sdev](https://github.com/kant-sdev)
+| | Programa | Instituição | Período |
+|:---:|---|---|---|
+| 📘 | Oracle Next Education - Backend Java | Oracle + Alura | Jun/2025 - Mar/2026 |
+| 🎓 | Análise e Desenvolvimento de Sistemas | Unifacimp Wyden | Mar/2023 - Dez/2025 |
+| 🔧 | Técnico em Redes de Computadores | IFTO - Campus Araguatins | 2019 - 2022 |
 
 ---
 
-## 🚀 Vamos construir algo juntos?
+<br/>
 
-Fique à vontade para explorar meus repositórios.
-Estou aberto a oportunidades como **Desenvolvedor Backend Java Júnior**, colaboração em projetos e trocas técnicas.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0d1117,50:1a1f2e,100:0d1117&section=footer"/>
