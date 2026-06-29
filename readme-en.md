@@ -2,7 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,50:1a1f2e,100:0d1117&text=kant-sdev&fontColor=e2e8f0&fontSize=38&fontAlignY=55&desc=Kauã%20Cantanhede&descSize=16&descAlignY=75&descColor=94a3b8"/>
 <em>Backend Java Developer  ·  Software Architecture</em>
 
-<br/><br/>
+</div>
+<br/>
 
 <div align="center">
 
