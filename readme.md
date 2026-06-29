@@ -1,6 +1,11 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,50:1a1f2e,100:0d1117&text=Kauã%20Cantanhede&fontColor=e2e8f0&fontSize=34&fontAlignY=62&desc=Backend%20Java%20Developer%20·%20Software%20Architecture&descSize=14&descAlignY=80&descColor=64748b"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0d1117,50:1a1f2e,100:0d1117&text=kant-sdev&fontColor=e2e8f0&fontSize=38&fontAlignY=55&desc=Kauã%20Cantanhede&descSize=16&descAlignY=75&descColor=94a3b8"/>
+
+<em>Desenvolvedor Backend Java | Spring Boot  ·  Arquitetura e Engenharia de Software </em>
+
 </div>
+<br/>
+
 
 <div align="center">
 
